@@ -151,11 +151,3 @@ body {
 .card-text > p {
     margin-top: 8px;
 }
-
-.side-bar {
-    position: fixed;
-    right: -110px;
-    bottom: 30px;
-    width: 600px;
-    height: fit-content;
-}
